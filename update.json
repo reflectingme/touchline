@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 10,
-  "versionName": "0.4.0",
+  "versionCode": 11,
+  "versionName": "0.4.1",
   "minSdk": 26,
-  "bytes": 308141,
-  "sha256": "207d0b6f237fa44826dc10a316e930d7ef1426e24ef964825b8764e8d1dca6ba",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.0/Touchline-0.4.0.apk",
-  "notes": "Separate phone and Waveshare update sections. Download signed device firmware, transfer it to the paired device and confirm the installed version after restart. Requires the first USB installation of Waveshare 0.4.23 or later. Existing setup guide, plans and history remain."
+  "bytes": 705869,
+  "sha256": "7e0822c24436b8609432cf4d2a01e1c9efd4b858862f8051dc2b5b5fd2f43d4a",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.1/Touchline-0.4.1.apk",
+  "notes": "Offline getting-started and illustrated Waveshare guides, page help, clearer connection and transfer status, and shareable match scorecards with optional details. Records and pairing are retained. No Waveshare firmware upload required."
 }

@@ -4,7 +4,7 @@ An Android companion app for football coaching, match tracking and training, des
 
 ## Download
 
-**[Download Android 0.4.0](https://github.com/reflectingme/touchline/releases/download/android-v0.4.0/Touchline-0.4.0.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.4.1](https://github.com/reflectingme/touchline/releases/download/android-v0.4.1/Touchline-0.4.1.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
 
 Requires **Android 8 or newer**. The installed app is called **Lloyd Touchline**, with a red football icon.
 
@@ -14,6 +14,8 @@ Requires **Android 8 or newer**. The installed app is called **Lloyd Touchline**
 - Team, match, coaching and gym plans, with search, duplication and upcoming fixtures.
 - Send plans to the paired device and receive match and training records over local Wi-Fi.
 - Separate update controls for the Android app and Waveshare firmware.
+- Offline illustrated guides, page help and a clear transfer summary.
+- Preview and share match scorecards with optional dates, venue, weather and timelines.
 
 ## Install and pair
 
