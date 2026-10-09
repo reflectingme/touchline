@@ -6,7 +6,7 @@ This is a small family project, shared publicly for convenient downloads. It is 
 
 ## Download
 
-**[Download Android 0.3.3](https://github.com/reflectingme/touchline/releases/download/android-v0.3.3/Touchline-0.3.3.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.4.0](https://github.com/reflectingme/touchline/releases/download/android-v0.4.0/Touchline-0.4.0.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
 
 The installed app is currently called **Lloyd Touchline** and has a red football icon. Touchline is the public project name.
 
@@ -23,11 +23,19 @@ The installed app is currently called **Lloyd Touchline** and has a red football
 2. Open the file. If Android asks, allow installation from the browser or file app you used.
 3. Confirm **Install** or **Update**. For future versions, update the existing app rather than uninstalling it, to retain its local data.
 
-Requires **Android 8 or newer**; tested on a Samsung Galaxy A12 running Android 12. Use matching device firmware **0.4.22** for the full feature set. The APK installs only the Android app; it does not update Waveshare firmware.
+Requires **Android 8 or newer**; tested on a Samsung Galaxy A12 running Android 12. Use matching device firmware **0.4.22** for the full feature set. The APK installs the Android app. Its separate Waveshare updater can transfer compatible device firmware after the initial receiver installation.
 
 To connect for the first time, put both devices on the same local Wi-Fi. Open **Phone sync → Pair phone** on the Waveshare and follow the Android app's **Device** instructions. Pairing is remembered. For later transfers, wake the Waveshare, finish any running activity before sending a plan, and transfer from the phone. Received plans are reviewed and loaded separately on the device.
 
-**From version 0.3.1:** open **Device → App updates** to check manually. Automatic checks run when due on opening/returning and approximately every two hours; Android may delay background checks. New versions appear as a Home notice. Downloading and installing are your choice, with Android confirmation. No Waveshare firmware is installed by this updater. Users on 0.3.0 need to install 0.3.1 manually once.
+**From version 0.3.1:** open **Device → App updates** to check manually. Automatic checks run when due on opening/returning and approximately every two hours; Android may delay background checks. New versions appear as a Home notice. Downloading and installing are your choice, with Android confirmation. This section installs only the phone app. Users on 0.3.0 need to install a newer APK manually once.
+
+## Waveshare device updates
+
+Phone and device releases are labelled separately: **Android app** (`.apk`) and **Waveshare firmware** (`.bin`). They have independent version numbers and update feeds in this repository.
+
+Android **0.4.0** adds **Device → App updates → Waveshare updates**. The device first needs **firmware 0.4.23 installed by USB** to add its receiver. Earlier firmware cannot receive this first change wirelessly. After that, keep both devices on the same Wi-Fi and Waveshare on USB power, finish active activities/timers, and check for a device update in the phone app. The phone downloads a signed package, sends it and confirms the new version after the device restarts.
+
+[Waveshare firmware 0.4.24](https://github.com/reflectingme/touchline/releases/tag/waveshare-v0.4.24) is the first Wi-Fi trial release. It matches the 0.4.23 receiver build apart from its version, so the update is easy to confirm. This is for the aluminium **1.75C** board only. Software checks passed; first physical OTA/recovery testing is still pending. Device application updates preserve the separate records/settings storage; bootloader/partition changes and recovery outside the normal updater still need USB.
 
 ## First-time setup guide
 

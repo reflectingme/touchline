@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 9,
-  "versionName": "0.3.3",
+  "versionCode": 10,
+  "versionName": "0.4.0",
   "minSdk": 26,
-  "bytes": 291757,
-  "sha256": "91151dc2e6ce175aa320fea73672cf5fd1e51cb4cc50e60361be2d1c0740e498",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.3/Touchline-0.3.3.apk",
-  "notes": "A dismissible first-use guide below the Home pitch explains same-network Wi-Fi setup and one-time pairing. Reopen it from Device \u2192 Pairing help. Existing records and pairing are retained."
+  "bytes": 308141,
+  "sha256": "207d0b6f237fa44826dc10a316e930d7ef1426e24ef964825b8764e8d1dca6ba",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.0/Touchline-0.4.0.apk",
+  "notes": "Separate phone and Waveshare update sections. Download signed device firmware, transfer it to the paired device and confirm the installed version after restart. Requires the first USB installation of Waveshare 0.4.23 or later. Existing setup guide, plans and history remain."
 }

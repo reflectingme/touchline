@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "model": "waveshare-esp32-s3-touch-amoled-1.75c",
+  "version": "0.4.24",
+  "build": 424,
+  "bytes": 1663680,
+  "sha256": "1ce5ddf22be114f73681d863aa047a93ec6fdb448230a803c450d6401ec7294b",
+  "signature": "3b8f79a42ba4385693532e8f73419e7e7ac556670363e5c8ab1ae01863025b2a8b7744ecd723411caff3431b60acae8afd4fb2b80274819da36c3cb6f6c7d9a507a1e926529497af6364c88ec102bf6ce6f92a0a4d7385a5b4648b413987cd1c60fd0be35f5c4e4a4a24582a177d20c809c0d6392c07e711f03424999fcf664d6326a2bd9941554734bbb0bcd43b8167ad851da069f6e52f18427fdfb0420d2da5da5fbf4a08cfbca763443d4ef5be3f72c5c0243a0fbc3ed46ea6549c08ff09541774111b5cf212da715e1d6bda9bc59576ba6f1cac30ca1aeedf61c2e2184b718feb2b734aa35f485cf8616518d41b8f8bafe9ac325a22ec44fe4ce0fc6d12",
+  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.24/Touchline-Waveshare-0.4.24.bin",
+  "notes": "First Wi-Fi firmware update trial. Same updater-enabled behaviour as the USB 0.4.23 build, with version 0.4.24 so the completed transfer is visible. Preserves records, plans, settings and pairing. Requires initial USB receiver installation 0.4.23."
+}
