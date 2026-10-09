@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 18,
-  "versionName": "0.4.8",
+  "versionCode": 19,
+  "versionName": "0.4.9",
   "minSdk": 26,
-  "bytes": 1813316,
-  "sha256": "c2f124a78a95767501cbaab78e3175680243723d2a02aa901b6c930a48a5052e",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.8/Touchline-0.4.8.apk",
-  "notes": "Clarified installation help for reopening Touchline after an update. Includes pre-install guidance. Saved plans, history and pairing are retained. No Waveshare update required."
+  "bytes": 1817412,
+  "sha256": "4a39eb0d6366dd8cac63b9de585a672583b2e0aa69c985b23e45e26aa33c062a",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.9/Touchline-0.4.9.apk",
+  "notes": "Tap Won, Drawn or Lost in Stats & graphs to explore matching games. Season and tournament selections are respected, with navigation back from match details to the results and graph. Saved records and pairing are retained. No Waveshare update required."
 }
