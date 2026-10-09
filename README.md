@@ -4,7 +4,7 @@ An Android companion app for football coaching, match tracking and training, des
 
 ## Download
 
-**[Download Android 0.4.10](https://github.com/reflectingme/touchline/releases/download/android-v0.4.10/Touchline-0.4.10.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.4.11](https://github.com/reflectingme/touchline/releases/download/android-v0.4.11/Touchline-0.4.11.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
 
 Requires **Android 8 or newer**. The installed app is called **Lloyd Touchline**, with a red football icon.
 

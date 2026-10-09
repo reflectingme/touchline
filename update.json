@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 20,
-  "versionName": "0.4.10",
+  "versionCode": 21,
+  "versionName": "0.4.11",
   "minSdk": 26,
   "bytes": 2182101,
-  "sha256": "f7206e457a484d7a20b978dfe7d31997b2d4db4482b66960b866f3ce1d7df7c4",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.10/Touchline-0.4.10.apk",
-  "notes": "New illustrated first-launch pairing guide, also available under Device \u2192 Pairing help. Shows where to find Waveshare settings and enter the address and code on Android. Supports phones on either Wi-Fi band of the same home network. Records and pairing are retained."
+  "sha256": "45a86f1f1478d00f8a4742fb961eb20180f4be2d2c33053f443bc580109db201",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.11/Touchline-0.4.11.apk",
+  "notes": "Clearer Home navigation: Plans for Waveshare opens your plan library. Updated help and send confirmations explain saving on the phone and sending to the paired device. No Waveshare update required."
 }
