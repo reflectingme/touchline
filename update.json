@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 13,
-  "versionName": "0.4.3",
+  "versionCode": 14,
+  "versionName": "0.4.4",
   "minSdk": 26,
-  "bytes": 1805124,
-  "sha256": "9c5182da54c52346cd85e5121bd1c3636b5ad692a07e4c88cfc4347f9454d2b8",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.3/Touchline-0.4.3.apk",
-  "notes": "More illustrated guides: match halves and breaks, finishing and history, Wi-Fi pairing, phone plans, sound, screen saving, orientation and games. Existing records and pairing are retained. No Waveshare firmware upload required."
+  "bytes": 1809220,
+  "sha256": "0266640776511fed3b4c62dce55abe805cebc9ebdee1ea335312b5a24e1b23f4",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.4/Touchline-0.4.4.apk",
+  "notes": "Added Installation help with clear steps for Android updates, Play Protect prompts and checking the installed version. Existing plans, history and pairing are retained. No Waveshare firmware update is needed."
 }
