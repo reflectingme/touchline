@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 8,
-  "versionName": "0.3.2",
+  "versionCode": 9,
+  "versionName": "0.3.3",
   "minSdk": 26,
-  "bytes": 287661,
-  "sha256": "7830a0ef110ff1fd56b4ac8d95337f3791def9638b92e58ffe62424b8c7a3d12",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.2/Touchline-0.3.2.apk",
-  "notes": "Clearer confirmation after a manual update check: a tick stays on the button for six seconds, with a short message. Failed checks do not show a success tick. Plans, history and pairing are unchanged."
+  "bytes": 291757,
+  "sha256": "91151dc2e6ce175aa320fea73672cf5fd1e51cb4cc50e60361be2d1c0740e498",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.3/Touchline-0.3.3.apk",
+  "notes": "A dismissible first-use guide below the Home pitch explains same-network Wi-Fi setup and one-time pairing. Reopen it from Device \u2192 Pairing help. Existing records and pairing are retained."
 }
