@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "model": "waveshare-esp32-s3-touch-amoled-1.75c",
-  "version": "0.4.24",
-  "build": 424,
-  "bytes": 1663680,
-  "sha256": "1ce5ddf22be114f73681d863aa047a93ec6fdb448230a803c450d6401ec7294b",
-  "signature": "3b8f79a42ba4385693532e8f73419e7e7ac556670363e5c8ab1ae01863025b2a8b7744ecd723411caff3431b60acae8afd4fb2b80274819da36c3cb6f6c7d9a507a1e926529497af6364c88ec102bf6ce6f92a0a4d7385a5b4648b413987cd1c60fd0be35f5c4e4a4a24582a177d20c809c0d6392c07e711f03424999fcf664d6326a2bd9941554734bbb0bcd43b8167ad851da069f6e52f18427fdfb0420d2da5da5fbf4a08cfbca763443d4ef5be3f72c5c0243a0fbc3ed46ea6549c08ff09541774111b5cf212da715e1d6bda9bc59576ba6f1cac30ca1aeedf61c2e2184b718feb2b734aa35f485cf8616518d41b8f8bafe9ac325a22ec44fe4ce0fc6d12",
-  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.24/Touchline-Waveshare-0.4.24.bin",
-  "notes": "Wi-Fi firmware updating for the aluminium Waveshare 1.75C. Requires Android 0.4.0 and an initial USB installation of device 0.4.23. Records, settings and pairing are retained."
+  "version": "0.4.25",
+  "build": 425,
+  "bytes": 1663888,
+  "sha256": "274d3769274874e360f0a11ff6905f3270e28e535b2a807e6f521c2c82b9f2f2",
+  "signature": "209ef24400925b10c7c0f90a2b72acf1f2307c525fbd2f9d131ce09749ecab2e54313dd0fd468f4a01cc32960ce7762cb550d333991da70751dc94dcdf410505dab89b89f177b95ff7000832ef364be0c9cf7a887a9af797707e01f0297533adf7bf94fcc8393fea4be4d3615124cd288b0496218412f34fc0e79a60970f055e97b61d467cec468909763e40fef2865ab540566be92473e24b666908fef6cc692227a6451350ca9ca740b26be85c20ce1e1dcd5b1319fe419bb9f4f5aa7621c587a18ddeba161dbe064c4fe0d3ac33c45ee7172c5e864724377dd2917b6ca5bc33b8f6e0e6f785a5cd201dfb78c782123c499eda8f800a67fd7b0b211a0bf13f",
+  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.25/Touchline-Waveshare-0.4.25.bin",
+  "notes": "Adds a clearly visible Settings cog to every Home clock face. New devices start with the teal Sports Chronograph; existing face choices, records and pairing are retained. For the aluminium Waveshare 1.75C only. Keep the device on USB power during the update."
 }

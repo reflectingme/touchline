@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 19,
-  "versionName": "0.4.9",
+  "versionCode": 20,
+  "versionName": "0.4.10",
   "minSdk": 26,
-  "bytes": 1817412,
-  "sha256": "4a39eb0d6366dd8cac63b9de585a672583b2e0aa69c985b23e45e26aa33c062a",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.9/Touchline-0.4.9.apk",
-  "notes": "Tap Won, Drawn or Lost in Stats & graphs to explore matching games. Season and tournament selections are respected, with navigation back from match details to the results and graph. Saved records and pairing are retained. No Waveshare update required."
+  "bytes": 2182101,
+  "sha256": "f7206e457a484d7a20b978dfe7d31997b2d4db4482b66960b866f3ce1d7df7c4",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.10/Touchline-0.4.10.apk",
+  "notes": "New illustrated first-launch pairing guide, also available under Device \u2192 Pairing help. Shows where to find Waveshare settings and enter the address and code on Android. Supports phones on either Wi-Fi band of the same home network. Records and pairing are retained."
 }
