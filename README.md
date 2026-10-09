@@ -6,7 +6,7 @@ This is a small family project, shared publicly for convenient downloads. It is 
 
 ## Download
 
-**[Download Android 0.3.0](https://github.com/reflectingme/touchline/releases/download/android-v0.3.0/Touchline-0.3.0.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.3.1](https://github.com/reflectingme/touchline/releases/download/android-v0.3.1/Touchline-0.3.1.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
 
 The installed app is currently called **Lloyd Touchline** and has a red football icon. Touchline is the public project name.
 
@@ -27,7 +27,7 @@ Requires **Android 8 or newer**; tested on a Samsung Galaxy A12 running Android 
 
 To connect for the first time, put both devices on the same local Wi-Fi. Open **Phone sync → Pair phone** on the Waveshare and follow the Android app's **Device** instructions. Pairing is remembered. For later transfers, wake the Waveshare, finish any running activity before sending a plan, and transfer from the phone. Received plans are reviewed and loaded separately on the device.
 
-**Version 0.3.0 does not yet check for or install updates from GitHub inside the app.** For now, downloads are available here. In-app update checking is planned.
+**From version 0.3.1:** open **Device → App updates** to check manually. Automatic checks run when due on opening/returning and approximately every two hours; Android may delay background checks. New versions appear as a Home notice. Downloading and installing are your choice, with Android confirmation. No Waveshare firmware is installed by this updater. Users on 0.3.0 need to install 0.3.1 manually once.
 
 ## Your data
 

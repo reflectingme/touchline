@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "versionCode": 7,
+  "versionName": "0.3.1",
+  "minSdk": 26,
+  "bytes": 283565,
+  "sha256": "91b7652377fed69a00f0f564a02d8662818d55b5fd4fb3fb0a7df66a67a4dfa7",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.1/Touchline-0.3.1.apk",
+  "notes": "Adds manual and automatic Android update checks. Checks run when due on opening or returning to the app and approximately every two hours in the background. Downloads and installations remain your choice. Plans, history and pairing are preserved."
+}

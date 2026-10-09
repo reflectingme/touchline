@@ -1,4 +1,5 @@
-# Only public download documentation belongs in this repository.
+# Only public download documentation and update metadata belong here.
 /*
 !/README.md
 !/.gitignore
+!/update.json
