@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 15,
-  "versionName": "0.4.5",
+  "versionCode": 16,
+  "versionName": "0.4.6",
   "minSdk": 26,
   "bytes": 1809220,
-  "sha256": "a4b2f99526c23367eacadefc5172a2c0ee8558e94da73362ae996256939af1ea",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.5/Touchline-0.4.5.apk",
-  "notes": "Clearer installation help: distinguish downloaded updates from installed versions, and guidance for Play Protect warnings. Plans, history and pairing are retained. No Waveshare firmware update required."
+  "sha256": "f2bccc37984753eacf2f059c82af76bba9961a623e5f068ddec3caeb6c2daf6d",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.6/Touchline-0.4.6.apk",
+  "notes": "Installation help now explains the confirmation after a successful Play Protect scan. Existing plans, history and pairing are retained. No Waveshare firmware update required."
 }
