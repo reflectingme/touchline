@@ -6,7 +6,7 @@ This is a small family project, shared publicly for convenient downloads. It is 
 
 ## Download
 
-**[Download Android 0.3.1](https://github.com/reflectingme/touchline/releases/download/android-v0.3.1/Touchline-0.3.1.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.3.2](https://github.com/reflectingme/touchline/releases/download/android-v0.3.2/Touchline-0.3.2.apk)** · [Release notes and all downloads](https://github.com/reflectingme/touchline/releases)
 
 The installed app is currently called **Lloyd Touchline** and has a red football icon. Touchline is the public project name.
 

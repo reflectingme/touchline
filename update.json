@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 7,
-  "versionName": "0.3.1",
+  "versionCode": 8,
+  "versionName": "0.3.2",
   "minSdk": 26,
-  "bytes": 283565,
-  "sha256": "91b7652377fed69a00f0f564a02d8662818d55b5fd4fb3fb0a7df66a67a4dfa7",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.1/Touchline-0.3.1.apk",
-  "notes": "Adds manual and automatic Android update checks. Checks run when due on opening or returning to the app and approximately every two hours in the background. Downloads and installations remain your choice. Plans, history and pairing are preserved."
+  "bytes": 287661,
+  "sha256": "7830a0ef110ff1fd56b4ac8d95337f3791def9638b92e58ffe62424b8c7a3d12",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.3.2/Touchline-0.3.2.apk",
+  "notes": "Clearer confirmation after a manual update check: a tick stays on the button for six seconds, with a short message. Failed checks do not show a success tick. Plans, history and pairing are unchanged."
 }
