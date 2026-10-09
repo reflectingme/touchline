@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 12,
-  "versionName": "0.4.2",
+  "versionCode": 13,
+  "versionName": "0.4.3",
   "minSdk": 26,
-  "bytes": 1128308,
-  "sha256": "b918095385bd7266bd87f2ba8b240dfb6b70cb95a0a4db652680c3b08553611d",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.2/Touchline-0.4.2.apk",
-  "notes": "More illustrated screen guides: live-match scoring areas, Undo, substitutions and period controls; clock faces and colours; gym and coaching. Records and pairing are retained. No Waveshare firmware upload required."
+  "bytes": 1805124,
+  "sha256": "9c5182da54c52346cd85e5121bd1c3636b5ad692a07e4c88cfc4347f9454d2b8",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.3/Touchline-0.4.3.apk",
+  "notes": "More illustrated guides: match halves and breaks, finishing and history, Wi-Fi pairing, phone plans, sound, screen saving, orientation and games. Existing records and pairing are retained. No Waveshare firmware upload required."
 }
