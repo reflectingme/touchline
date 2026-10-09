@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 16,
-  "versionName": "0.4.6",
+  "versionCode": 17,
+  "versionName": "0.4.7",
   "minSdk": 26,
-  "bytes": 1809220,
-  "sha256": "f2bccc37984753eacf2f059c82af76bba9961a623e5f068ddec3caeb6c2daf6d",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.6/Touchline-0.4.6.apk",
-  "notes": "Installation help now explains the confirmation after a successful Play Protect scan. Existing plans, history and pairing are retained. No Waveshare firmware update required."
+  "bytes": 1813316,
+  "sha256": "0a90a4a609022dad5528f4faaeb077d0e222dd4aea55ebcfff61cf5fe0870552",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.7/Touchline-0.4.7.apk",
+  "notes": "New pre-install guidance explains Play Protect confirmation and recovery from stalled updates. Choose Continue to Android or keep the download for later. Plans, history and pairing are retained. No Waveshare firmware update required."
 }
