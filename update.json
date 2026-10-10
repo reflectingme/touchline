@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 21,
-  "versionName": "0.4.11",
+  "versionCode": 22,
+  "versionName": "0.4.12",
   "minSdk": 26,
-  "bytes": 2182101,
-  "sha256": "45a86f1f1478d00f8a4742fb961eb20180f4be2d2c33053f443bc580109db201",
-  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.11/Touchline-0.4.11.apk",
-  "notes": "Clearer Home navigation: Plans for Waveshare opens your plan library. Updated help and send confirmations explain saving on the phone and sending to the paired device. No Waveshare update required."
+  "bytes": 2296941,
+  "sha256": "14821e40bdadd4a2cf3f8f57c35fd49fcca7fe907255ea70f79f47fa0321d2e0",
+  "apkUrl": "https://github.com/reflectingme/touchline/releases/download/android-v0.4.12/Touchline-0.4.12.apk",
+  "notes": "Manage saved history separately on the phone and Waveshare, with explicit confirmations, a phone recovery option and illustrated help. Plans, future fixtures and pairing are kept. Updating does not clear records."
 }

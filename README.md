@@ -4,7 +4,7 @@ An Android companion app for football coaching, match tracking and training, des
 
 ## Download
 
-**[Download Android 0.4.11](https://github.com/reflectingme/touchline/releases/download/android-v0.4.11/Touchline-0.4.11.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
+**[Download Android 0.4.12](https://github.com/reflectingme/touchline/releases/download/android-v0.4.12/Touchline-0.4.12.apk)** · [All releases](https://github.com/reflectingme/touchline/releases)
 
 Requires **Android 8 or newer**. The installed app is called **Lloyd Touchline**, with a red football icon.
 
@@ -15,13 +15,14 @@ Requires **Android 8 or newer**. The installed app is called **Lloyd Touchline**
 - Send plans to the paired device and receive match and training records over local Wi-Fi.
 - Separate update controls for the Android app and Waveshare firmware.
 - Offline illustrated guides, page help and a clear transfer summary.
+- Separate, confirmed history clearing on each device, preserving plans and pairing.
 - Preview and share match scorecards with optional dates, venue, weather and timelines.
 
 ## Install and pair
 
 1. Download and open the **APK** on your phone. Allow installation from that source if Android asks, then confirm installation.
 2. Connect both devices to the same home Wi-Fi network. Waveshare needs **2.4 GHz**; the phone can use **2.4 GHz or 5 GHz**. Avoid guest networks that isolate devices.
-3. On Waveshare Home, tap the bottom-centre **Settings cog** (firmware 0.4.25), then **Wi-Fi → Phone sync → Pair phone**. Older firmware uses **Explore → Settings**.
+3. On Waveshare Home, tap the bottom-centre **Settings cog** (firmware 0.4.26), then **Wi-Fi → Phone sync → Pair phone**. Older firmware uses **Explore → Settings**.
 4. In the Android app's **Device** tab, enter the displayed address and all four code groups, then tap **Pair and get history**.
 
 The illustrated first-launch pop-up walks through these steps; reopen it under **Device → Pairing help**. Pairing is remembered. For later transfers, wake the device on the same Wi-Fi and use **Get history** or send a plan from the phone. Received plans are reviewed and loaded on the device.
@@ -34,7 +35,11 @@ The ordinary Waveshare demonstration firmware is not compatible. Without the mat
 
 **Waveshare device:** Android 0.4.0 includes **Device → App updates → Waveshare updates**. First install **device 0.4.23 by USB** to add its update receiver. Future compatible updates can then be sent over Wi-Fi. Keep Waveshare on USB power, finish active activities/timers and keep the phone app open until the restarted version is confirmed.
 
-[Waveshare firmware 0.4.25](https://github.com/reflectingme/touchline/releases/tag/waveshare-v0.4.25) is for the aluminium **1.75C** board only. Phone releases use `.apk` files; device releases use `.bin` files and independent version numbers. Bootloader/partition changes and recovery beyond the built-in updater require USB.
+[Waveshare firmware 0.4.26](https://github.com/reflectingme/touchline/releases/tag/waveshare-v0.4.26) is for the aluminium **1.75C** board only. Phone releases use `.apk` files; device releases use `.bin` files and independent version numbers. Bootloader/partition changes and recovery beyond the built-in updater require USB.
+
+## Manage saved history
+
+On Android: **Device → Manage saved history**. The illustrated guide explains clearing Waveshare locally first, then the phone if both copies should be removed. Confirmations explain the scope. Plans, future fixtures, settings and pairing remain. Phone recovery can restore the last cleared copy; the device retains a separate recovery copy for technical support. Updating does not clear records.
 
 ## About this repository
 

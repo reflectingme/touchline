@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "model": "waveshare-esp32-s3-touch-amoled-1.75c",
-  "version": "0.4.25",
-  "build": 425,
-  "bytes": 1663888,
-  "sha256": "274d3769274874e360f0a11ff6905f3270e28e535b2a807e6f521c2c82b9f2f2",
-  "signature": "209ef24400925b10c7c0f90a2b72acf1f2307c525fbd2f9d131ce09749ecab2e54313dd0fd468f4a01cc32960ce7762cb550d333991da70751dc94dcdf410505dab89b89f177b95ff7000832ef364be0c9cf7a887a9af797707e01f0297533adf7bf94fcc8393fea4be4d3615124cd288b0496218412f34fc0e79a60970f055e97b61d467cec468909763e40fef2865ab540566be92473e24b666908fef6cc692227a6451350ca9ca740b26be85c20ce1e1dcd5b1319fe419bb9f4f5aa7621c587a18ddeba161dbe064c4fe0d3ac33c45ee7172c5e864724377dd2917b6ca5bc33b8f6e0e6f785a5cd201dfb78c782123c499eda8f800a67fd7b0b211a0bf13f",
-  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.25/Touchline-Waveshare-0.4.25.bin",
-  "notes": "Adds a clearly visible Settings cog to every Home clock face. New devices start with the teal Sports Chronograph; existing face choices, records and pairing are retained. For the aluminium Waveshare 1.75C only. Keep the device on USB power during the update."
+  "version": "0.4.26",
+  "build": 426,
+  "bytes": 1668432,
+  "sha256": "15c9216ce209d05f84026258302482b92f5b4a0641f8755a37d346f8a2c757c8",
+  "signature": "489b0c40e5da0a5f0449958a8cc9aebc778e71af6e6f1f2018713f7f1a528167bc28a8bddcbd2a501f882192196f3416b52783aeb726f53b5c8592e0fc2c67d25083057ee4598494461753670df771ed3ab598fa86043cf7309271dc39c076e0a6cebfbef54624c599ea652a767cccba3dc8b9d3323ff0f816738da8f982077a2c18d9d259b25fbc8bcef09ccfc569ed81c5dcb877c4ee714670a66df315da8b45e88e53b3830b160b9b5428a2c46b628036b1ec8e532c996ea5a94be09a46ac71f340f890137385ca76fe0a53428ad10d0e3894fa23fa6e06f7911eec5c883f58ac10b2fa37362cf7a5c3871b1f887f35969e223c4fe5568056f5262711fee3",
+  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.26/Touchline-Waveshare-0.4.26.bin",
+  "notes": "Adds guarded local history clearing with a checked recovery copy. Plans, future fixtures, settings and pairing are kept. Clearing is optional; updating removes no records. Aluminium Waveshare 1.75C only."
 }
