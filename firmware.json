@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "model": "waveshare-esp32-s3-touch-amoled-1.75c",
-  "version": "0.4.26",
-  "build": 426,
-  "bytes": 1668432,
-  "sha256": "15c9216ce209d05f84026258302482b92f5b4a0641f8755a37d346f8a2c757c8",
-  "signature": "489b0c40e5da0a5f0449958a8cc9aebc778e71af6e6f1f2018713f7f1a528167bc28a8bddcbd2a501f882192196f3416b52783aeb726f53b5c8592e0fc2c67d25083057ee4598494461753670df771ed3ab598fa86043cf7309271dc39c076e0a6cebfbef54624c599ea652a767cccba3dc8b9d3323ff0f816738da8f982077a2c18d9d259b25fbc8bcef09ccfc569ed81c5dcb877c4ee714670a66df315da8b45e88e53b3830b160b9b5428a2c46b628036b1ec8e532c996ea5a94be09a46ac71f340f890137385ca76fe0a53428ad10d0e3894fa23fa6e06f7911eec5c883f58ac10b2fa37362cf7a5c3871b1f887f35969e223c4fe5568056f5262711fee3",
-  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.26/Touchline-Waveshare-0.4.26.bin",
-  "notes": "Adds guarded local history clearing with a checked recovery copy. Plans, future fixtures, settings and pairing are kept. Clearing is optional; updating removes no records. Aluminium Waveshare 1.75C only."
+  "version": "0.4.27",
+  "build": 427,
+  "bytes": 1668416,
+  "sha256": "86f3d4ec916d66e22ce47de4f676d9a9f437d7bc1e5bdaf2564ab949f7c12d83",
+  "signature": "7bc43c683a3b9b78dc1c093948c58e2631663c9755ef969dfa585c3613308c417cad191ef2f5465ac4dde4f02af5a61334a17e0f8670821264720ed36154c915047f27569ce8bc8f40ce824ae4fd0434ad5ee4c950d95ac03cbe2520e46c439d83f5da265f29cc59e78351b3f4d642112761d79161a5e0c405071ac1278c6689c8c8d10e62181e70cefe907f340a67fdaace9df91ac525efa4f5c1fcd7f3110b2fc8fcc1bc994c57242e93b09fa2d65f565cb7b9b1e08ead9c77c3828e55dfe035fe3aeb9b914736bd357019be7abe7cddbe6e424c325fe8ac661126992abc55087dea45b6c1d160e826eebb8d896b1c9b5495a5f8ebfa26783c04babd8b9669",
+  "url": "https://github.com/reflectingme/touchline/releases/download/waveshare-v0.4.27/Touchline-Waveshare-0.4.27.bin",
+  "notes": "Simplifies the birthday greeting subtitle to Coach. The existing sign-off remains. Records, settings and pairing are preserved. Aluminium Waveshare 1.75C only."
 }

@@ -35,7 +35,7 @@ The ordinary Waveshare demonstration firmware is not compatible. Without the mat
 
 **Waveshare device:** Android 0.4.0 includes **Device → App updates → Waveshare updates**. First install **device 0.4.23 by USB** to add its update receiver. Future compatible updates can then be sent over Wi-Fi. Keep Waveshare on USB power, finish active activities/timers and keep the phone app open until the restarted version is confirmed.
 
-[Waveshare firmware 0.4.26](https://github.com/reflectingme/touchline/releases/tag/waveshare-v0.4.26) is for the aluminium **1.75C** board only. Phone releases use `.apk` files; device releases use `.bin` files and independent version numbers. Bootloader/partition changes and recovery beyond the built-in updater require USB.
+[Waveshare firmware 0.4.27](https://github.com/reflectingme/touchline/releases/tag/waveshare-v0.4.27) is for the aluminium **1.75C** board only. Phone releases use `.apk` files; device releases use `.bin` files and independent version numbers. Bootloader/partition changes and recovery beyond the built-in updater require USB.
 
 ## Manage saved history
 
